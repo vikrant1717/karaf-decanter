@@ -49,6 +49,7 @@
         <paho.version>1.2.5</paho.version>
         <slf4j.version>1.7.36</slf4j.version>
         <commons-io.version>2.20.0</commons-io.version>
+        <sonar.organization>vikrant1717</sonar.organization>
     </properties>
 
     <modules>
